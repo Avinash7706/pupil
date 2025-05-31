@@ -4,7 +4,7 @@ import abhiroop from '../images/abhiroop.jpeg'
 import monika from '../images/monika.jpeg'
 import auruko from '../images/auruko.jpeg'
 import shubham from '../images/shubham.jpeg'
-import karan from '../images/Karan.jpeg'
+import karan from '../images/karan.jpeg'
 import samantha from '../images/samta.jpeg'
 import { motion, useAnimation } from 'framer-motion';
 import { useEffect } from 'react';
